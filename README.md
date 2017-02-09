@@ -1,6 +1,5 @@
 # hello-world
 My first repository
-Hi! My name is Greg and I started learning Python about a month ago. 
-I have no previous experience in programming, but I'll give it my best shot.
-Or something like that.
- 
+Hi! I'm Greg again, and after screwing up the last exercise, I'm here again :)
+I am totally new to programming and would like to try my hand at Python first.
+And now I'll commit these changes to the readme-edits branch!
